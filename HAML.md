@@ -22,16 +22,6 @@ Don't use rocket arrows
 %div{ class: 'button' }
 ```
 
-
-Don't use rocket arrows
-```
-# Bad
-%div{ class => 'button' }
-
-# Good
-%div{ class: 'button' }
-```
-
 Put spaces between curly braces
 ```
 # Bad
